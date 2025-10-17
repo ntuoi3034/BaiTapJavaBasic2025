@@ -1,4 +1,4 @@
-package bt_java_basic3;
+package bt_javabasic3;
 
 public class QuanheLogic {
     static int a = 30;
