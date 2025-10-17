@@ -1,4 +1,4 @@
-package BT_JavaBasic_Collection;
+package bt_javabasic5;
 
 import java.time.LocalDate;
 import java.util.ArrayList;
@@ -12,14 +12,12 @@ public class Collection {
                     DanhSachSoChan.add(i); // Thêm số chẵn vào danh sách
                 }
             }
-
             // In ra các số chẵn bằng vòng lặp for cơ bản
             System.out.println("Các số chẵn từ 0 đến 50 là:");
             for (int i = 0; i < DanhSachSoChan.size(); i++) {
                 System.out.print(DanhSachSoChan.get(i) + " ");
             }
         }
-
         // Hàm riêng thêm thông tin nhân viên
         public static ArrayList<String> themNhanVien(String maNhanVien, String tenNhanVien, LocalDate ngaySinh, String gioiTinh, double luong, String phongBan) {
             // Tạo ArrayList để lưu thông tin nhân viên
@@ -45,5 +43,4 @@ public class Collection {
                 System.out.println(DSNhanVien.get(i));
             }
         }
-
 }

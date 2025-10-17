@@ -1,4 +1,4 @@
-package BT_JavaBasic_For_Array;
+package bt_javabasic4;
 
 public class ForArray {
 

@@ -1,4 +1,4 @@
-package BT_JavaBasic2;
+package bt_javabasic2;
 
 public class Calculator {
     public static int SoNguyen(int a, int b){

@@ -1,4 +1,4 @@
-package BT_JavaBasic1;
+package bt_javabasic1;
 
 public class SinhVien {
     String HoTen = "Nguyễn Thị Hoa Mai Lan";
